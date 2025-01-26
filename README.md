@@ -1,1 +1,1 @@
-# Chatbot-for-your-Dcouments-using-Gemini-Flash-1.5
+# Chatbot-for-your-Documents-using-Gemini-Flash-1.5
